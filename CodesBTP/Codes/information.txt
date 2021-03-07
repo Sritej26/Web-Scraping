@@ -1,0 +1,3 @@
+C:\Users\Sritej. N\Desktop\Data
+C:\Users\Sritej. N\Downloads
+C:\Users\Sritej. N\Downloads\chromedriver_win32\chromedriver

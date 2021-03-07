@@ -1,0 +1,14 @@
+http://clists.nic.in/ddir/PDFCauselists/patna/2019/%s/013%s2019.pdf
+http://clists.nic.in/ddir/PDFCauselists/panaji/2019/%s/013%s2019.pdf
+
+http://www.jkhighcourt.nic.in/causelist%s.php
+http://www.jkhighcourt.nic.in/doc/upload/causelist/jmu/Causelist_jmu_%s_2019/entire.pdf
+http://www.jkhighcourt.nic.in/doc/upload/causelist/sgr/list_causelist_%s2019/entirelist.pdf
+http://clists.nic.in/ddir/PDFCauselists/uttarakhand/2019/%s/013%s2019O%s%s201%s.pdf
+http://clists.nic.in/ddir/PDFCauselists/uttarakhand/2019/{0}/013{1}2019{2}2019_DAILY%20(RC%20KHULBE).pdf
+http://clists.nic.in/ddir/PDFCauselists/uttarakhand/2019/%s/013%s2019of%s2019.pdf
+http://clists.nic.in/ddir/PDFCauselists/uttarakhand/2019/%s/013%s2019om%s2019.pdf
+http://clists.nic.in/ddir/PDFCauselists/uttarakhand/2019/%s/013%s2019ot%s2019.pdf
+http://clists.nic.in/ddir/PDFCauselists/uttarakhand/2019/%s/013%s2019oh%s2019.pdf
+http://clists.nic.in/ddir/PDFCauselists/uttarakhand/2019/%s/013%s2019ow%s2019.pdf
+http://clists.nic.in/ddir/PDFCauselists/uttarakhand/2019/%s/013%s2019oh%s2019.pdf
